@@ -1,4 +1,4 @@
-rg_name     = "demo-RG"
+rg_name     = "demooooo-RG"
 rg_location = "southindia"
 vm_configs = {
   vm_name              = "example-machine1"
